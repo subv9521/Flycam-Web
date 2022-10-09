@@ -1,0 +1,66 @@
+@use '../../shared.scss' as *;
+
+.product-item {
+    display: inline-flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    width: 25%;
+    border: 1px solid $colorBoder;
+
+    &__img {
+        height: 200px;
+        overflow: hidden;
+        width: 100%;
+
+        img {
+            width: 100%;
+            object-fit: contain;
+            height: 100%;
+            margin: 0 auto;
+        }
+    }
+
+    &__name {
+        text-align: center;
+        padding: 0 15px;
+        line-height: 15px;
+        position: absolute;
+        top: 200px;
+
+        a {
+            font-size: 15px;
+            color: $colorBlueDark !important;
+        }
+    }
+
+    &__old-price {
+        font-size: 14px;
+        display: block;
+        text-align: center;
+        margin-top: 70px;
+
+        span {
+            font-weight: bold;
+            color: $colorGreen;
+            margin-left: 5px;
+        }
+    }
+
+    &__new-price {
+        font-size: 12px;
+        text-align: center;
+        color: $colorRed;
+        font-weight: bold;
+
+        span {
+            display: inline-block;
+            padding: 3px;
+            margin-left: 10px;
+            color: white;
+            border-radius: 3px;
+            background-color: $colorRedDark;
+        }
+    }
+}

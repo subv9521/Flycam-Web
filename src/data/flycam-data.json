@@ -1,0 +1,431 @@
+{
+  "djiMavic": [
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2022/08/71f634b6b7858c270240067086276cc3@large-300x200.jpg",
+      "name": "DJI MINI 3 PRO FLY MORE KIT",
+      "oldPrice": "4,500,000 đ",
+      "newPrice": "4,090,000 đ",
+      "reducedPrice": "9 %",
+      "id": 1
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2022/07/DJI-MINI-3-PRO-FLY-MORE-KIT-PLUS-510x510-300x300.jpeg",
+      "name": "DJI Mini 3 Pro Fly More Kit Plus",
+      "oldPrice": "6,000,000 đ",
+      "newPrice": "5,500,000 đ",
+      "reducedPrice": "8 %",
+      "id": 2
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2020/11/4c509c8044665f866dd73b978e4615f3@large-300x200.jpg",
+      "name": "Combo DJI Mavic Mini 2 ( Chính hãng VN)",
+      "oldPrice": "14,990,000 đ",
+      "newPrice": "13,900,000 đ",
+      "reducedPrice": "7 %",
+      "id": 3
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2022/05/DJ-Mini-3-Pro-RC-1-300x300.jpg",
+      "name": "DJI Mini 3 Pro Smart Controller",
+      "oldPrice": "22,590,000 đ",
+      "newPrice": "21,290,000 đ",
+      "reducedPrice": "5 %",
+      "id": 4
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2022/03/9421412f8e83278b37b538744a0913b0@ultra-300x300.jpg",
+      "name": "DJI Mavic 3 Pro",
+      "oldPrice": "65,000,000 đ",
+      "newPrice": "46,300,000 đ",
+      "reducedPrice": "28 %",
+      "id": 5
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2021/07/46d624a1-8fe5-478a-be3d-140184e3ffae.6e01b83e512f1a8f6bd08c52ab8200ef-e1622771496636-300x185.png",
+      "name": "Combo DJI Mavic Mini SE",
+      "oldPrice": "10,900,000 đ",
+      "newPrice": "9,900,000 đ",
+      "reducedPrice": "9 %",
+      "id": 6
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2021/07/dji-mini-se-tokyocamera-1-300x300.jpg",
+      "name": "Flycam DJI Mavic Mini SE",
+      "oldPrice": "7,990,000 đ",
+      "newPrice": "7,790,000 đ",
+      "reducedPrice": "2 %",
+      "id": 7
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2021/04/a4eb1ddaf35330021088d17083746baf@ultra-300x300.jpg",
+      "name": "DJI Mavic Air 2S",
+      "oldPrice": "26,000,000 đ",
+      "newPrice": "24,490,000 đ",
+      "reducedPrice": "5 %",
+      "id": 8
+    }
+  ],
+  "phantom4": [
+    {
+      "id": 1,
+      "img": "https://flycamvn.com/wp-content/uploads/2018/05/1-300x200.jpg",
+      "name": "Phantom 4 pro plus v2.0",
+      "oldPrice": "45,000,000 đ",
+      "newPrice": "43,000,000 đ",
+      "reducedPrice": "4 %"
+    },
+    {
+      "id": 2,
+      "img": "https://flycamvn.com/wp-content/uploads/2018/05/8b3d2f61-bde9-4679-8eac-82412c828d26-300x290.jpg",
+      "name": "Phantom 4 Pro V2.0",
+      "oldPrice": "36,000,000 đ",
+      "newPrice": "34,900,000 đ",
+      "reducedPrice": "3 %"
+    },
+    {
+      "id": 3,
+      "img": "https://flycamvn.com/wp-content/uploads/2017/04/s3-img-365b6df689d23e54eec77f64fa8538e3-300x202.png",
+      "name": "Phantom 4 Advanced",
+      "oldPrice": "30,000,000 đ",
+      "newPrice": "25,800,000 đ",
+      "reducedPrice": "14 %"
+    }
+  ],
+  "inspire": [
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2017/02/medium_9351802d-9e88-4bb6-979c-48fe81748a33-300x200.png",
+      "name": "Inspire 2",
+      "oldPrice": "70,000,000 đ",
+      "newPrice": "67,000,000 đ",
+      "reducedPrice": "4 %",
+      "id": 1
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2016/12/inspire_image1-300x198.jpg",
+      "name": "Inspire 1 V2.0",
+      "oldPrice": "45,170,000 đ",
+      "newPrice": "44,000,000 đ",
+      "reducedPrice": "2 %",
+      "id": 2
+    }
+  ],
+  "osmo": [
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2021/10/DJI-Action-2-300x212.jpg",
+      "name": "Camera DJI Action 2",
+      "oldPrice": "12,000,000 đ",
+      "newPrice": "10,490,000 đ",
+      "reducedPrice": "12 %",
+      "id": 1
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/08/360.2-300x256.png",
+      "name": "Insta360 GO – Camera chống rung nhỏ nhất thế giới",
+      "oldPrice": "6,000,000 đ",
+      "newPrice": "3,990,000 đ",
+      "reducedPrice": "33 %",
+      "id": 2
+    }
+  ],
+  "phuKien": [
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/01/A%CC%89nh-chu%CC%A3p-Ma%CC%80n-hi%CC%80nh-2019-01-09-lu%CC%81c-10.16.54-SA-300x129.png",
+      "name": "DJI Smart Controller Mavic 2",
+      "oldPrice": "16,000,000 đ",
+      "newPrice": "14,990,000 đ",
+      "reducedPrice": "6 %",
+      "id": 1
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2018/09/pin_mavic_2_gia_re_500x500-300x300.jpg",
+      "name": "PIN MAVIC 2",
+      "oldPrice": "3,200,000 đ",
+      "newPrice": "2,990,000 đ",
+      "reducedPrice": "6 %",
+      "id": 2
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2018/04/1-3-300x300.jpg",
+      "name": "HUB sạc 4 pin tello",
+      "oldPrice": "650,000 đ",
+      "newPrice": "500,000 đ",
+      "reducedPrice": "23 %",
+      "id": 3
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2018/04/1-3-300x300.jpg",
+      "name": "Túi đựng Mavic",
+      "oldPrice": "1,500,000 đ",
+      "newPrice": "1,150,000 đ",
+      "reducedPrice": "23 %",
+      "id": 4
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2018/02/31-300x267.jpg",
+      "name": "Sạc Pin Mavic Pro trên oto",
+      "oldPrice": "550,000 đ",
+      "newPrice": "500,000 đ",
+      "reducedPrice": "9 %",
+      "id": 5
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2018/02/5-2-300x300.jpg",
+      "name": "Chân đế DJI Spark",
+      "oldPrice": "270,000 đ",
+      "newPrice": "220,000 đ",
+      "reducedPrice": "18 %",
+      "id": 6
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2018/02/i7.jpg",
+      "name": "Bộ chân đôn Mavic Pro",
+      "oldPrice": "200,000 đ",
+      "newPrice": "150,000 đ",
+      "reducedPrice": "25 %",
+      "id": 7
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2018/02/i7.jpg",
+      "name": "Pin DJI Inspire 2",
+      "oldPrice": "4,200,000 đ",
+      "newPrice": "3,700,000 đ",
+      "reducedPrice": "11 %",
+      "id": 8
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2018/02/1-2-300x300.jpg",
+      "name": "Sạc Pin DJI Osmo",
+      "oldPrice": "520,000 đ",
+      "newPrice": "450,000 đ",
+      "reducedPrice": "13 %",
+      "id": 9
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2018/02/h7-300x300.png",
+      "name": "Sạc Flycam Syma X8Pro",
+      "oldPrice": "130,000 đ",
+      "newPrice": "120,000 đ",
+      "reducedPrice": "7 %",
+      "id": 10
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2018/02/h2-1-300x300.jpg",
+      "name": "Động cơ Flycam Syma X8HW",
+      "oldPrice": "130,000 đ",
+      "newPrice": "120,000 đ",
+      "reducedPrice": "7 %",
+      "id": 11
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2018/02/1-1-300x300.jpg",
+      "name": "Motor Syma x8 pro",
+      "oldPrice": "150,000 đ",
+      "newPrice": "130,000 đ",
+      "reducedPrice": "13 %",
+      "id": 12
+    }
+  ],
+  "gimbal": [
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2021/09/dji-osmo-5-02-500x500-300x300.jpg",
+      "name": "Gimbal DJI OM 5 (Osmo Mobile 5)",
+      "oldPrice": "4,090,000 đ",
+      "newPrice": "3,690,000 đ",
+      "reducedPrice": "9 %",
+      "id": 1
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2020/10/Pocket-2-pro-combo-1-300x169.jpg",
+      "name": "Combo DJI Osmo Pocket 2",
+      "oldPrice": "13,500,000 đ",
+      "newPrice": "12,390,000 đ",
+      "reducedPrice": "8 %",
+      "id": 2
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2020/10/DJI-Osmo-Pocket-2-1-300x169.jpg",
+      "name": "DJI Osmo Pocket 2",
+      "oldPrice": "9,500,000 đ",
+      "newPrice": "8,690,000 đ",
+      "reducedPrice": "8 %",
+      "id": 3
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2020/08/OM4_5.png-300x169.jpeg",
+      "name": "Tay cầm chống rung DJI Osmo Mobile 4 chính hãng",
+      "oldPrice": "4,500,000 đ",
+      "newPrice": "3,500,000 đ",
+      "reducedPrice": "22 %",
+      "id": 4
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/09/45E73086-19C4-4D57-B166-A1E3C3E8D1F6-204x300.png",
+      "name": "ZHIYUN Smooth Q2 – Gimbal chống rung điện thoại bỏ túi",
+      "oldPrice": "3,500,000 đ",
+      "newPrice": "3,290,000 đ",
+      "reducedPrice": "6 %",
+      "id": 5
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/08/16bde6d5-26b3-4d66-83b3-0f70aab27d2c-200x300.jpg",
+      "name": "DJI Osmo Mobile 3 – Tay cầm chống rung cho điện thoại",
+      "oldPrice": "2,800,000 đ",
+      "newPrice": "2,490,000 đ",
+      "reducedPrice": "11 %",
+      "id": 6
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/07/medium_f7a6725f-bc54-462d-b1d5-f8499571b6d0-300x200.jpg",
+      "name": "Gimbal chống rung DJI Ronin SC",
+      "oldPrice": "11,000,000 đ",
+      "newPrice": "8,190,000 đ",
+      "reducedPrice": "25 %",
+      "id": 7
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/05/4654854_DJI-Osmo-action-camera-1-300x224.png",
+      "name": "DJI Osmo Action Camera",
+      "oldPrice": "10,000,000 đ",
+      "newPrice": "8,990,000 đ",
+      "reducedPrice": "10 %",
+      "id": 8
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/05/s-l1000-300x300.jpg",
+      "name": "Gimbal chống rung Moza Mini-S",
+      "oldPrice": "2,050,000 đ",
+      "newPrice": "1,290,000 đ",
+      "reducedPrice": "37 %",
+      "id": 9
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/01/HTB1JiR2avjsK1Rjy1Xaq6zispXa4.jpg_q50-300x300.jpg",
+      "name": "Osmo Pocket Wireless Module",
+      "oldPrice": "1,500,000 đ",
+      "newPrice": "1,300,000 đ",
+      "reducedPrice": "13 %",
+      "id": 10
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/01/0D8067B2-3208-44D9-B487-0D50C33299F5-300x200.jpeg",
+      "name": "Osmo Pocket Expansion Kit",
+      "oldPrice": "3,000,000 đ",
+      "newPrice": "2,600,000 đ",
+      "reducedPrice": "13 %",
+      "id": 11
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2018/10/4333_42540281_2144275325845972_4577695453973315584_n.jpg",
+      "name": "Gimbal zhiyun weebill lab",
+      "oldPrice": "15,000,000 đ",
+      "newPrice": "13,900,000 đ",
+      "reducedPrice": "7 %",
+      "id": 12
+    }
+  ],
+  "robotLaunha": [
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/11/dd35-ihomestore-300x300.png",
+      "name": "Robot Hút Bụi, Lau Nhà Ecovacs DD35 ( OZMO 600)",
+      "oldPrice": "5,800,000 đ",
+      "newPrice": "4,900,000 đ",
+      "reducedPrice": "15 %",
+      "id": 1
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/10/311512a48037b71e1a5da2ffa0e1905b-300x300.jpg",
+      "name": "Robot hút bụi lau nhà Liectroux C30B (e30)",
+      "oldPrice": "7,000,000 đ",
+      "newPrice": "3,990,000 đ",
+      "reducedPrice": "43 %",
+      "id": 2
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/09/5AC6BFF3-7623-48EF-9FD6-01F24C2599D9-300x300.jpeg",
+      "name": "Robot hút bụi lau nhà Ecovacs DF45",
+      "oldPrice": "10,000,000 đ",
+      "newPrice": "7,400,000 đ",
+      "reducedPrice": "26 %",
+      "id": 3
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/09/x750-300x296.jpg",
+      "name": "Robot hút bụi lau nhà ILIFE X750",
+      "oldPrice": "7,000,000 đ",
+      "newPrice": "4,990,000 đ",
+      "reducedPrice": "28 %",
+      "id": 4
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/09/6BBA88DC-DDE4-4720-9070-5A1180DF4BC7-300x200.jpeg",
+      "name": "Robot hút bụi lau nhà Xiaomi Mijia Gen 2 2019 STYJ02YM",
+      "oldPrice": "9,000,000 đ",
+      "newPrice": "6,490,000 đ",
+      "reducedPrice": "27 %",
+      "id": 5
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/09/F966966F-287D-4445-A08A-B651AA4D755D-300x134.png",
+      "name": "Robot hút bụi lau nhà iLife X900",
+      "oldPrice": "11,000,000 đ",
+      "newPrice": "7,690,000 đ",
+      "reducedPrice": "30 %",
+      "id": 6
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/07/bl332-300x300.jpg",
+      "name": "Robot hút bụi lau nhà Ecovacs Deebot DL33/ DL35 hàng trưng bày",
+      "oldPrice": "5,500,000 đ",
+      "newPrice": "3,700,000 đ",
+      "reducedPrice": "32 %",
+      "id": 7
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/08/6de9a3a175189246cb09-300x300.jpg",
+      "name": "Robot hút bụi lau nhà Ecovacs Deebot DG36 (OZMO 930)",
+      "oldPrice": "13,600,000 đ",
+      "newPrice": "5,500,000 đ",
+      "reducedPrice": "59 %",
+      "id": 8
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/08/robot-hut-bui-ecovacs-deebot-dn55-ozmo-900-1562319319-300x300.jpg",
+      "name": "Robot hút bụi lau nhà Ecovacs Deebot DN55 (OZMO 900)- Hàng trưng bày, chưa qua sử dụng",
+      "oldPrice": "6,900,000 đ",
+      "newPrice": "5,500,000 đ",
+      "reducedPrice": "20 %",
+      "id": 9
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/08/67838009_1804517586318293_7923314599183515648_n-300x300.jpg",
+      "name": "Robot hút bụi lau nhà Ecovacs Deebot DN33( Hàng trưng bày,New,nguyên seal)",
+      "oldPrice": "6,900,000 đ",
+      "newPrice": "4,990,000 đ",
+      "reducedPrice": "27 %",
+      "id": 10
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/07/dj351-300x300.jpg",
+      "name": "Robot hút bụi lau nhà ECOVACS DEEBOT DJ35 hàng trưng bày",
+      "oldPrice": "6,100,000 đ",
+      "newPrice": "4,300,000 đ",
+      "reducedPrice": "29 %",
+      "id": 11
+    },
+    {
+      "img": "https://flycamvn.com/wp-content/uploads/2019/07/dj351-300x300.jpg",
+      "name": "Robot hút bụi lau nhà ECOVACS DEEBOT DJ35 hàng NEW nguyên seal 100%",
+      "oldPrice": "8,500,000 đ",
+      "newPrice": "6,090,000 đ",
+      "reducedPrice": "28 %",
+      "id": 12
+    }
+  ],
+  "news": [
+    {
+      "title": "News",
+      "date": " 13/05/2022",
+      "description": "Rate this post DJI Mini 3 Pro vừa ra mắt khiến nhiều người dùng ngay lập tức đặt ra câu hỏi: Nên mua Mini 3…"
+    }
+  ]
+}

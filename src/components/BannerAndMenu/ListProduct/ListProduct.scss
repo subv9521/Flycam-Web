@@ -1,0 +1,69 @@
+@use '../../shared.scss';
+
+.list-product {
+    list-style: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    border: 1px solid #ccc;
+    padding: 0;
+    width: 28%;
+    background-color: white;
+    animation: headerNotifyGrowth linear 0.2s;
+
+
+
+
+    .list-product-item {
+        font-size: 16px;
+        font-weight: 500;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        border-top: 1px solid #ccc;
+        height: 40px;
+        padding: 0 10px;
+        color: #337ab7;
+        transition: all linear 0.2s;
+        
+        img {
+            height: 18px;
+            object-fit: contain;
+            background-color: white;
+        }
+
+        &__name {
+            text-align: left;
+            flex: 1;
+            margin-left: 5px;
+        }
+
+        .icon-arrow-right {
+            font-size: 25px;
+        }
+    }
+    .list-product-item:hover {
+        background-color: #337ab7;
+        color: white;
+
+    }
+
+
+}
+
+
+
+@keyframes headerNotifyGrowth {
+    from {
+        opacity: 0;
+        top: 80%;
+    }
+    to {
+        opacity: 0;
+        top: 90%;
+    }
+    to {
+        opacity: 1;
+        top: 110%;
+    }
+}

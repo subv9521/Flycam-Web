@@ -1,0 +1,52 @@
+@use '../shared.scss' as *;
+
+.new-item-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    .new-item {
+        width: calc(50% - 10px);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 7px;
+        margin-bottom: 20px;
+        border: 1px solid $colorBoder;
+        
+    
+        &__img {
+            width: 35%;
+            height: 135px;
+            overflow: hidden;
+            display: flex;
+
+    
+            img {
+                object-fit: cover;
+                width: 100%;
+            }
+        }
+
+        &__desc {
+            width: 65%;
+            margin-left: 10px;
+
+            h3 {
+                margin-bottom: 5px;
+
+                a {
+                    font-size: 16px;
+                    color: $colorBlueDark;
+                    font-weight: bold;
+                }
+            }
+
+            p {
+                font-size: 13px;
+                line-height: 18px;
+                color: $colorGray;
+            }
+        }
+    }
+}

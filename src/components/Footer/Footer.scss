@@ -1,0 +1,248 @@
+@use '../shared.scss' as *;
+
+.footer {
+
+
+    &-contact {
+        background-color: $backgroundImage;
+        padding: 25px 0;
+        border-bottom: 10px solid $colorsky;
+
+        &__list {
+            list-style: none;
+            color: white;
+            font-size: 14px;
+
+            li {
+                font-weight: bold;
+                line-height: 22px;
+
+                span {
+                    font-weight: normal;
+                }
+
+            }
+        }
+    }
+
+    &-social {
+        background-image: url("https://flycamvn.com/wp-content/themes/thietkewebwordpress/img/backgroundfooter.png");
+        padding-bottom: 100px;
+        background-repeat: no-repeat;
+        padding-top: 15px;
+
+        &__item {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+        }
+
+        &__yt {
+            text-align: center;
+            background-color: #aaddde;
+            border-radius: 5px;
+            padding: 0 15px;
+            width: 35%;
+            height: 110px;
+
+            h2 {
+                font-size: 14px;
+                font-weight: bold;
+                margin: 5px 0 5px;
+            }
+
+            &-container {
+                display: flex;
+                justify-content: start;
+                padding: 15px 10px;
+
+                &-img {
+                    background-color: white;
+                    display: flex;
+                    height: 50px;
+                    width: 50px;
+
+                    img {
+                        width: 100%;
+                        object-fit: contain;
+                        padding: 5px;
+                    }
+                }
+
+
+                &-item {
+                    margin-left: 10px;
+
+                    a {
+                        color: unset;
+                        text-decoration: none;
+
+                        h3 {
+                            font-size: 12px;
+                            text-align: left;
+                        }
+                    }
+
+                    &-link {
+                        padding: 5px;
+                        background-color: #e62117;
+                        color: white;
+                        font-size: 12px;
+
+                        svg {
+                            width: 16px;
+                            height: 16px;
+                            margin-right: 5px;
+                        }
+                    }
+
+                    &-sub {
+                        font-size: 12px;
+                        padding: 5px;
+                        background-color: white;
+                    }
+
+                }
+            }
+        }
+
+        &__logo {
+            width: 30%;
+            height: 110px;
+            background-color: white;
+            padding: 5px;
+            border-radius: 5px;
+
+            img {
+                object-fit: contain;
+                height: 100%;
+                display: block;
+                margin: auto;
+            }
+        }
+
+        &__fb {
+            width: 35%;
+            background-repeat: no-repeat;
+            background-image: url("https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/275134940_2029264430608311_195718672919606921_n.png?stp=dst-png_s350x350&_nc_cat=109&ccb=1-7&_nc_sid=dd9801&_nc_ohc=rNDb_qfDSiMAX_-tENF&_nc_ht=scontent.fhan14-3.fna&edm=AGeEj18EAAAA&oh=00_AT_FLPg9_SKS0rQ5AjWAXFLR79Nz3_Y9dZsOzmWvq0bHRA&oe=6342AA6C");
+            background-size: cover;
+            height: 110px;
+            padding: 10px;
+            position: relative;
+
+
+            &-head {
+                display: flex;
+                position: absolute;
+                left: 0;
+                right: 0;
+                top: 0;
+                padding: 10px 10px 0;
+                background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+
+                &-logo {
+                    width: 55px;
+                    height: 55px;
+                    background-color: white;
+                    display: flex;
+
+                    img {
+                        width: 90%;
+                        object-fit: contain;
+                        margin: auto;
+                    }
+                }
+
+                span {
+                    color: white;
+                    font-size: 18px;
+                    font-weight: 500;
+                    margin-left: 5px;
+                    line-height: 20px;
+
+                    p {
+                        font-size: 12px;
+
+                    }
+                }
+            }
+
+            &-footer {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                position: absolute;
+                bottom: 10px;
+                left: 10px;
+                right: 10px;
+
+
+                &-share,
+                &-fb {
+                    background-color: white;
+                    font-size: 13px;
+                    font-weight: 500;
+                    padding: 0 5px;
+                    display: flex;
+                    align-items: center;
+
+                    svg {
+                        width: 16px;
+                        height: 16px;
+                        margin-right: 3px;
+                        color: $colorBlueDark;
+                    }
+                }
+
+                &-share {
+                    background-color: white;
+                    font-size: 13px;
+
+                    svg {
+                        transform: scaleX(-1);
+                    }
+
+
+                }
+
+
+            }
+
+
+        }
+
+
+
+    }
+
+    &-license {
+
+        p {
+            font-size: 14px;
+            font-weight: 450;
+            color: $primaryColor;
+            margin: 0;
+        }
+
+        img {
+            width: 235px;
+            object-fit: contain;
+        }
+    }
+
+    &-end {
+        background-color: #eee;
+        p {
+            font-size: 14px;
+            padding: 10px 0;
+            margin: 0;
+            display: flex;
+            align-items: center;
+
+            svg {
+                width: 15px;
+                margin-right: 5px;
+            }
+        }
+    }
+}

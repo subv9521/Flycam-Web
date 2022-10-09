@@ -1,0 +1,68 @@
+@use '../components/shared.scss' as *;
+
+.contact {
+    margin: 20px 0;
+
+    &-text {
+        padding-right: 20px;
+
+        h4 {
+            font-size: 20px;
+            font-weight: bold;
+            margin: 0;
+        }
+
+        h5 {
+            font-size: 17px;
+            font-weight: bold;
+            margin-top: 5px;
+        }
+
+        ul {
+            list-style: none;
+
+            li {
+                font-size: 14px;
+                line-height: 30px;
+
+                span {
+                    font-weight: bold;
+                }
+            }
+        }
+    }
+
+    &-imput {
+        padding-left: 20px;
+        width: 50%;
+
+        textarea,
+        input {
+            display: block;
+            box-sizing: border-box;
+            border: 1px solid #ddd;
+            color: $colorGray;
+            padding: 5px 15px;
+            font-size: 15px;
+            border-radius: 0;
+            width: 100%;
+            outline: none;
+            margin-bottom: 15px;
+        }
+
+        input {
+            height: 35px;
+        }
+
+        button {
+            border: none;
+            background-color: $backgroundImage;
+            color: white;
+            border-radius: 2px;
+            font-size: 15px;
+            font-weight: bold;
+            padding: 5px 15px;
+        }
+    }
+
+}

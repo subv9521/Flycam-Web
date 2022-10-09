@@ -1,0 +1,31 @@
+$primaryColor: #0896e6;
+$colorGray: #6d6b6b;
+$colorOrange: #f1770f;
+$colorRed: #f00;
+$colorRedDark: #CD2600;
+$colorBlueDark: #337ab7;
+$colorGreen: #4a7f49;
+$colorBoder: #ddd;
+$colorsky: #85d1f3;
+
+$backgroundImage: #097cbc;
+
+.title {
+    height: 45px;
+    background-color: $backgroundImage;
+    color: white;
+    margin: 40px 0 20px;
+
+    a {
+        font-size: 18px;
+        font-weight: 350;
+        line-height: 45px;
+        margin-left: 10px;
+    }
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
